@@ -1,10 +1,10 @@
 export default function Footer() {
     return (
         <div className="footer">
-            <img src="/src/assets/Twitter icon.png" alt="twitter icon" />
-            <img src="/src/assets/Facebook icon.png" alt="facebook icon" />
-            <img src="/src/assets/Instagram icon.png" alt="instagram icon" />
-            <img src="/src/assets/GitHub icon.png" alt="github icon" />
+            <img src="/Twitter.png" alt="twitter icon" />
+            <img src="/Facebook.png" alt="facebook icon" />
+            <img src="/Instagram.png" alt="instagram icon" />
+            <img src="/GitHub.png" alt="github icon" />
         </div>
     )
 }
