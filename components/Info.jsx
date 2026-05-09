@@ -7,7 +7,7 @@ export default function Info() {
             <div className="info-text">
                 <h2 className="info-name">Sarkwah Abdul Razak</h2>
                 <h4 className="info-title">Fullstack Developer | Graphic Designer</h4>
-                <p className="info-website">sarkwah.website</p>
+                <a href="https://react-business-card-delta.vercel.app/"  className="info-website">sarkwah.website</a>
                 <div className="links">
                     <a href="mailto:abdulsarkwah@gmail.com" className="email-link">
                         <img src="/Mail.png" alt="mail icon" />
