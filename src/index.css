@@ -87,7 +87,6 @@ img.info-profile-pic {
 .interests, .about {
   width: 100%;
   padding: 0% 2em;
-  margin-bottom: 1em;
 }
 
 .interests h3, .about h3 {
@@ -158,12 +157,10 @@ img.info-profile-pic {
   .interests {
     grid-area: interests;
     padding-inline: 0 1em;
-    margin: 0;
   }
   .about {
     grid-area: about;
     padding-inline: 0 1em;
-    margin: 0;
   }
   .footer {
     grid-area: footer;
